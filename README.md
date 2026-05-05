@@ -267,5 +267,18 @@ Epoch [1/50]  LR=1.00e-04
 - [ ] `README.md` – this file
 
 ---
+## 📥 Downloads
 
+### 🔹 Model Weights
+Download from Google Drive:
+[Download Model](https://drive.google.com/file/d/1hkpv88y3tXGmshMhZpa4sc3I0FdGXsDA/view?usp=sharing)
+
+### 🔹 Dataset
+Dataset not included due to size.
+
+You can:
+- Use your own dataset
+- Or download from: (https://drive.google.com/drive/folders/1-w-zGLBLFoz9KYl8KXEXWQo3Q37zJuV6?usp=sharing)
+
+Expected images/outputs: (https://drive.google.com/drive/folders/13IEbpH5AQzMUS1pXygznLb-BTEiCZPJP?usp=sharing)
 *Built for Duality AI Offroad Autonomy Segmentation Challenge*
