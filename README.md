@@ -11,7 +11,7 @@ duality_segmentation/
 ├── ENV_SETUP/
 │   └── setup_env.bat        ← Run this FIRST to install everything
 │
-├── dataset/                 ← Put your downloaded dataset here
+├── dataset/                 ← Put your downloaded dataset here(given bellow if needed)
 │   ├── train/
 │   │   ├── rgb/             ← Training colour images
 │   │   └── seg/             ← Training segmentation masks
@@ -19,6 +19,9 @@ duality_segmentation/
 │   │   ├── rgb/
 │   │   └── seg/
 │   └── testImages/          ← Unseen test images (no masks)
+|___run/
+|    |--checkpoint/
+|       |--best_model.pth    <- given link bellow
 │
 ├── dataset.py               ← Dataset loader + class definitions
 ├── model.py                 ← DeepLabV3+ model + loss function
@@ -34,7 +37,7 @@ duality_segmentation/
 ## ⚡ Step-by-Step Setup
 
 ### Step 1 – Install Anaconda
-Download and install [Miniconda](https://docs.conda.io/en/latest/miniconda.html) or [Anaconda](https://www.anaconda.com/download) for Windows.
+Download and install [Anaconda](https://www.anaconda.com/download) for Windows.
 
 ---
 
